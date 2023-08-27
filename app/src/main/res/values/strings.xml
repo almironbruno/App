@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <!-- Custom Input-->
+    <string name="title">Texto:</string>
+    <string name="hint">Ingrese una texto</string>
+    <!-- Main Activity -->
+    <string name="button">Comparar</string>
+    <string name="resultTextView">Resultado:</string>
+</resources>
